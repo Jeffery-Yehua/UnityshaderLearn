@@ -1,0 +1,10 @@
+C:\Users\cai\source\repos\3Dtrans\bin\Debug\3Dtrans.exe.config
+C:\Users\cai\source\repos\3Dtrans\bin\Debug\3Dtrans.exe
+C:\Users\cai\source\repos\3Dtrans\bin\Debug\3Dtrans.pdb
+C:\Users\cai\source\repos\3Dtrans\obj\Debug\3Dtrans.csprojAssemblyReference.cache
+C:\Users\cai\source\repos\3Dtrans\obj\Debug\_3Dtrans.Properties.Resources.resources
+C:\Users\cai\source\repos\3Dtrans\obj\Debug\3Dtrans.csproj.GenerateResource.cache
+C:\Users\cai\source\repos\3Dtrans\obj\Debug\3Dtrans.csproj.CoreCompileInputs.cache
+C:\Users\cai\source\repos\3Dtrans\obj\Debug\3Dtrans.exe
+C:\Users\cai\source\repos\3Dtrans\obj\Debug\3Dtrans.pdb
+C:\Users\cai\source\repos\3Dtrans\obj\Debug\_3Dtrans.Form1.resources
