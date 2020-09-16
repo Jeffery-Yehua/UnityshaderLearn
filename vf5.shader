@@ -34,6 +34,7 @@ Shader "Custom/vf5"
 
         
             v2f o;
+            
             //投影
             o.pos=UnityObjectToClipPos(uppos);
 
