@@ -36,17 +36,19 @@ Shader "Custom/vf5"
             v2f o;
             //投影
             o.pos=UnityObjectToClipPos(uppos);
-            //屏幕分量
-            float x= o.pos.x / o.pos.w;
-            // float y= o.pos.y / o.pos.w;
-            if(x>dis&&x<dis+r)
-            {
-                o.color=fixed4(1,1,1,1);
 
-            }
-            else{
-                o.color=fixed4(1,1,1,1);
-            }
+            o.color=fixed4(uppos.y,uppos.y,uppos.y,1);
+            //屏幕分量
+            // float x= o.pos.x / o.pos.w;
+            // // float y= o.pos.y / o.pos.w;
+            // if(x>dis&&x<dis+r)
+            // {
+            //     o.color=fixed4(1,1,1,1);
+
+            // }
+            // else{
+            //     o.color=fixed4(1,1,1,1);
+            // }
             // if(v.vertex.x>0)
             // {
             //     //颜色变化随时间
